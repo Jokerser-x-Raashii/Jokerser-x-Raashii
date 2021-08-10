@@ -8,6 +8,6 @@
 
 </p>
 <p align="center">
-<a href="https://github.com/Raashii/j0kerser"><img title="Jokerser" src="https://img.shields.io/badge/Jokerser-J0kerser?color=black&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/j0kerser"><img title="Jokerser" src="https://img.shields.io/badge/Jokerser-J0kerser?color=black&style=for-the-badge&logo=github"></a>
 
 </p>
